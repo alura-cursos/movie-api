@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "title": "Avatar",
+        "image": "AvatarImage",
+        "synopsis": "Um militar paraplégico despachado para a lua Pandora em uma missão única fica dividido entre seguir suas ordens e proteger o mundo que ele sente ser sua casa.",
+        "rate": 7.9,
+        "releaseDate": "18/12/2009"
+    },
+    {
+        "id": 2,
+        "title": "Vingadores: Ultimato",
+        "image": "UltimatoImage",
+        "synopsis": "Após os eventos devastadores de Vingadores: Guerra Infinita, o universo está em ruínas, e com a ajuda de aliados os Vingadores se reúnem para desfazer as ações de Thanos e restaurar a ordem.",
+        "rate": 8.4,
+        "releaseDate": "25/04/2019"
+    },
+    {
+        "id": 3,
+        "title": "Avatar: O Caminho da Água",
+        "image": "AvatarWaterPath",
+        "synopsis": "Após os eventos devastadores de Vingadores: Guerra Infinita , o universo está em ruínas, e com a ajuda de aliados os Vingadores se reúnem para desfazer as ações de Thanos e restaurar a ordem.",
+        "rate": 7.6,
+        "releaseDate": "16/12/2022"
+    },
+    {
+        "id": 4,
+        "title": "Titanic",
+        "image": "TitanicImage",
+        "synopsis": "Uma aristocrata de dezessete anos se apaixona por um artista gentil mas pobre a bordo do luxuoso e desafortunado Titanic.",
+        "rate": 7.9,
+        "releaseDate": "19/12/1997"
+    },
+    {
+        "id": 5,
+        "title": "Star Wars: O Despertar da Força",
+        "image": "SWForceAwakens",
+        "synopsis": "Três décadas depois da derrota do Imperio, uma noiva ameaça crece no Primeiro Ordem. Finn e Rey estão atrapados na Resistencia que procura pelo Luke Skywalker.",
+        "rate": 7.8,
+        "releaseDate": "18/12/2015"
+    },
+    {
+        "id": 6,
+        "title": "Vingadores: Guerra Infinita",
+        "image": "InfinityWarImage",
+        "synopsis": "Os Vingadores e seus aliados deverão sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que sua explosão de devastação ponha fim ao universo.",
+        "rate": 8.4,
+        "releaseDate": "26/04/2018"
+    },
+    {
+        "id": 7,
+        "title": "Homem Aranha: Sem Volta para Casa",
+        "image": "NoWayHomeImage",
+        "synopsis": "Com a identidade do Homem-Aranha revelada, Peter pede ajuda ao Doutor Strange. Quando um feitiço corre mal, inimigos perigosos de outros mundos começam a aparecer, forçando Peter a descobrir o que realmente significa ser o Homem-Aranha.",
+        "rate": 8.2,
+        "releaseDate": "15/12/2021"
+    },
+    {
+        "id": 8,
+        "title": "Jurassic World: O Mundo dos Dinossauros",
+        "image": "JurassicWorldImage",
+        "synopsis": "UM novo parques construído no lugar original do parque Jurassico, cria um dinossauro geneticamente modificado chamadao Indominus Rex, mas fuge e vai numa onda de assassinatos",
+        "rate": 6.9,
+        "releaseDate": "12/06/2015"
+    },
+    {
+        "id": 9,
+        "title": "O Rei Leão",
+        "image": "LionKingImage",
+        "synopsis": "Após o assassinato de seu pai, um jovem príncipe leão foge de seu reino apenas para aprender o verdadeiro significado de responsabilidade e bravura.",
+        "rate": 6.8,
+        "releaseDate": "18/07/2019"
+    },
+    {
+        "id": 10,
+        "title": "Os Vingadores",
+        "image": "Avengers2012",
+        "synopsis": "Os heróis mais poderosos da Terra devem se unir e aprender a lutar como uma equipe para impedir que um exército alienígena escravize a humanidade.",
+        "rate": 8.0,
+        "releaseDate": "27/04/2012"
+    },
+    {
+        "id": 11,
+        "title": "Velozes & Furiosos 7",
+        "image": "FastFurious7Image",
+        "synopsis": "Após vencerem Owen Shaw, Dominic Toretto e sua equipe enfrentam uma nova ameaça: Deckard Shaw, sedento por vingança pelo irmão comatizado.",
+        "rate": 7.1,
+        "releaseDate": "02/04/2015"
+    },
+    {
+        "id": 12,
+        "title": "Top Gun: Maverick",
+        "image": "TopGunMaverickImage",
+        "synopsis": "Após mais de trinta anos de serviço como um dos melhores aviadores da Marinha, Pete Mitchell está onde pertence, ultrapassando os limites como um piloto de teste intrépido e evitando a promoção de posto que o manteria em terra.",
+        "rate": 8.3,
+        "releaseDate": "26/05/2022"
+    },
+    {
+        "id": 13,
+        "title": "Frozen II",
+        "image": "Frozen2Image",
+        "synopsis": "Anna, Elsa, Kristoff e Olaf vão longe na floresta para aprender a verdade sobre um antigo mistério do reino deles.",
+        "rate": 6.8,
+        "releaseDate": "02/01/2020"
+    },
+    {
+        "id": 14,
+        "title": "Barbie",
+        "image": "BarbieMovieImage",
+        "synopsis": "Um encanador chamado Mario precisa salvar seu irmão Luigi das garras do rei dos Koopas, Bowser. Para isso, ele conta com a ajuda da princesa do Reino dos Cogumelos, Peach, e de seus amigos Toad e Donkey Kong.",
+        "rate": 7.1,
+        "releaseDate": "20/07/2023"
+    },
+    {
+        "id": 15,
+        "title": "Vingadores: Era de Ultron",
+        "image": "AgeOfUltronImage",
+        "synopsis": "Quando Tony Stark e Bruce Banner tentam iniciar um pacífico programa de manutenção da paz, as coisas dão muito errado e os heróis mais poderosos da Terra deberão, impedir que o vilão Ultron promulgue seu plano terrível.",
+        "rate": 7.3,
+        "releaseDate": "23/04/2015"
+    },
+    {
+        "id": 16,
+        "title": "Super Mario Bros. O Filme",
+        "image": "MarioBrosMovieImage",
+        "synopsis": "Um encanador chamado Mario precisa salvar seu irmão Luigi das garras do rei dos Koopas, Bowser. Para isso, ele conta com a ajuda da princesa do Reino dos Cogumelos, Peach, e de seus amigos Toad e Donkey Kong.",
+        "rate": 7.1,
+        "releaseDate": "05/04/2023"
+    },
+    {
+        "id": 17,
+        "title": "Pantera Negra",
+        "image": "BlackPantherImage",
+        "synopsis": "T'Challa, herdeiro do reino oculto, mas avançado de Wakanda, deve dar um passo adiante para conduzir seu povo a um novo futuro e deve enfrentar um adversário do passado de seu país.",
+        "rate": 7.3,
+        "releaseDate": "15/02/2018"
+    },
+    {
+        "id": 18,
+        "title": "Harry Potter e as Relíquias da Morte: Parte 2",
+        "image": "HPDeathlyHallows2Image",
+        "synopsis": "Harry, Ron e Hermione devem escapar a Voldemort e tentar trabalhar em conjunto para localizar e aniquilar os Horcruxes, que contêm pedaços da alma de Voldemort.",
+        "rate": 8.1,
+        "releaseDate": "15/07/2011"
+    },
+    {
+        "id": 19,
+        "title": "Star Wars Episodio VIII: Os Últimos Jedi",
+        "image": "SWLastJediImage",
+        "synopsis": "Rey deselvolve suas habilidades com a ajuda de Luke Skywalker, embora a Resistença se prepara para a batalha com a Primeira Ordem.",
+        "rate": 6.9,
+        "releaseDate": "13/12/2017"
+    },
+    {
+        "id": 20,
+        "title": "Jurassic World: Reino Ameaçado",
+        "image": "JurassicWorldFallenKingdom",
+        "synopsis": "Três anos após o fechamento do Jurassic Park, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar, Claire convoca Owen a retornar à ilha com ela.",
+        "rate": 6.1,
+        "releaseDate": "21/06/2018"
+    }
+    
+]
