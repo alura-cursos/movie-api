@@ -1,3 +1,5 @@
+A API retorna uma lista de filmes com a maior bilheteria até este momento (nov/2023).
+
 ## Instruções para executar a API na sua máquina
 
 Primeiramente, baixe este repositório na sua máquina (ou clone-o).
